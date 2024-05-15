@@ -309,3 +309,6 @@ exports.resetPassword =  async (req, res, next) => {
     token,
   });
 };
+
+
+// to do 
